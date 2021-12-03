@@ -1,0 +1,11 @@
+$ cd GITTEST
+$ git init
+$ git touch sample.txt
+$ git add sample2.txt
+$ git status
+$ git commit -m " successfully committed"
+$ git pull https://github.com/SuganthiK3799/TRAININGSESSION/sample.txt
+$ git status
+$ git push https://github.com/SuganthiK3799/GITTEST/EX1.txt
+
+
